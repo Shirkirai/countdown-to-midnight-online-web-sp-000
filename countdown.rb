@@ -2,6 +2,6 @@
 x = 10
 def countdown(x)
   while x > 0
-    puts "#{x} SECOND(S)!
+    puts "#{x} SECOND(S)!"
 
 end
